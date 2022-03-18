@@ -13,13 +13,13 @@ Users should be able to:
 
 ### Screenshot
 
-![./images/Desktop.png]
-![./images/Mobile.png]
+[![Desktop preview](./images/Desktop.png)]
+[![Mobile preview](./images/Mobile.png)]
 
 ### Links
 
 - Solution URL: https://github.com/kagure-nyakio/nft-card
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://admiring-visvesvaraya-14b00f.netlify.app/
 
 ## My process
 
