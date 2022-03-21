@@ -17,7 +17,7 @@ img {
 }
 
 /* typography */
-h2 {
+h1 {
   font-size: 1.5rem;
   letter-spacing: .75px;
 }
@@ -60,6 +60,7 @@ a:focus {
 
 .overlay {
   background-color: hsl(178, 100%, 50%, .50);
+  border-radius: 15px;
   display: flex;
   align-items: center;
   position: absolute;
